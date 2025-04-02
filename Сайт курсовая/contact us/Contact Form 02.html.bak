@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)https://preview.colorlib.com/theme/bootstrap/contact-form-02/ -->
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  	<title>Contact Form 02</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="./Contact Form 02_files/css" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="./Contact Form 02_files/font-awesome.min.css">
+	
+	<link rel="stylesheet" href="./Contact Form 02_files/style.css">
+
+	<style>#tr-popup,#tr-popup * {all: unset;}#tr-popup {font: 15px "Segoe UI", Arial, Helvetica, sans-serif;color: #222;padding: 24px;display: block;z-index: 2147483647;position: absolute;max-width: 400px;min-width: 300px;direction: ltr;text-align: left;background: #fff;border-radius: 2px;box-sizing: border-box;box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 12px 24px 0 rgba(51, 51, 51, 0.3);transition: opacity, visibility;transition-duration: 0.2s;}#tr-popup[data-hidden="true"] {opacity: 0;visibility: hidden;}#tr-popup[data-position="top"] {margin-top: -12px;}#tr-popup[data-position="bottom"] {margin-top: 12px;}#tr-popup .tr-popup__arrow {top: 100%;left: 50%;width: 26px;height: 12px;display: block;position: absolute;margin-left: -13px;margin-top: -1px;background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIxMiI+PHBhdGggZD0iTTAgMGwxMyAxMkwyNiAweiIgb3BhY2l0eT0iLjEiLz48cGF0aCBkPSJNMSAwbDEyIDExTDI1IDB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+") no-repeat;}#tr-popup[data-position="bottom"] .tr-popup__arrow {top: auto;bottom: 100%;margin-bottom: -1px;transform: rotate(180deg);}#tr-popup .tr-popup__value,#tr-popup .tr-popup__block {word-wrap: break-word;white-space: pre-wrap;}[data-type="trSpan"][data-translated="true"][data-source-lang="ja"],[data-type="trSpan"][data-translated="true"][data-source-lang="zh"],#tr-popup .tr-popup__title_original,#tr-popup .tr-popup__block_a,#tr-popup .tr-popup__block_b,#tr-popup .tr-popup__button {font-family: "Segoe UI", Arial, Helvetica, sans-serif !important;}#tr-popup .tr-popup__title_original {font-weight: bold;}#tr-popup .tr-popup__block {display: block;}#tr-popup .tr-popup__link {cursor: pointer;-webkit-user-select: none;user-select: none;}#tr-popup .tr-popup__link_suggest {color: #1378d7;font-size: 13px;line-height: 18px;margin-right: 22px;}#tr-popup .tr-popup__link_suggest:hover,#tr-popup .tr-popup__link_suggest:active {color: #000;}#tr-popup .tr-popup__logo {height: 18px;opacity: 0.3;display: inline-block;transition: opacity 0.2s;vertical-align: top;}#tr-popup .tr-popup__logo_company {width: 34px;filter: brightness(0);background: url("https://yastatic.net/s3/trbro/v20.5.1.0/i/service_logo.svg");background-size: 34px;background-position: 0 -18px;}#tr-popup[lang="ru"] .tr-popup__logo_company {background-position: 0 0;}#tr-popup .tr-popup__logo_service {width: 42px;background: url("https://yastatic.net/s3/trbro/v20.5.1.0/i/service_name.svg");margin-left: 2px;background-size: 63px;background-position: 0 -18px;}#tr-popup[lang="ru"] .tr-popup__logo_service {width: 57px;background-position: 0 0;}#tr-popup[lang="uk"] .tr-popup__logo_service {width: 56px;background-position: 0 -36px;}#tr-popup[lang="tr"] .tr-popup__logo_service {width: 25px;background-position: 0 -54px;}#tr-popup .tr-popup__link_service:hover .tr-popup__logo {opacity: 0.6;}#tr-popup .tr-popup__input {width: 100%;height: 80px;resize: none;border: 2px solid #e5e5e5;padding: 8px;display: block;font-size: 15px;box-sizing: border-box;border-radius: 2px;}#tr-popup .tr-popup__input:focus {border-color: #bbb;}#tr-popup .tr-popup__block_a,#tr-popup .tr-popup__block_b {margin-top: 16px;}#tr-popup .tr-popup__block_a {display: flex;justify-content: space-between;}#tr-popup .tr-popup__block_b {position: relative;}#tr-popup .tr-popup__block_submit {text-align: right;margin-top: 24px;}#tr-popup .tr-popup__overlay {top: 0;left: 0;right: 0;bottom: 0;position: absolute;}#tr-popup .tr-popup__overlay_submitted {color: #999;z-index: 1;display: flex;background: #fff;align-items: center;justify-content: center;}#tr-popup:not([data-expanded="true"]) .tr-popup__block_b,#tr-popup:not([data-submitted="true"]) .tr-popup__overlay_submitted {display: none;}#tr-popup .tr-popup__menu {font-size: 13px;opacity: 0;visibility: hidden;white-space: nowrap;position: absolute;bottom: 100%;margin-bottom: 8px;padding: 4px 14px;z-index: 1;background-color: #f5f5f5;border: 1px solid #bbb;border-radius: 2px;box-shadow: 0px 0 0 1px rgba(0, 0, 0, 0.1), 0 8px 14px 0 rgba(51, 51, 51, 0.3);}#tr-popup[data-menu-position="left"] .tr-popup__menu {right: 0;}#tr-popup[data-menu="true"] .tr-popup__menu {opacity: 1;visibility: visible;}#tr-popup .tr-popup__menu:hover {background-color: #efefef;}#tr-popup .tr-popup__button {cursor: pointer;display: inline-block;-webkit-user-select: none;user-select: none;}#tr-popup .tr-popup__button_menu,#tr-popup .tr-popup__button_close {top: 4px;width: 20px;height: 20px;opacity: 0.3;position: absolute;}#tr-popup .tr-popup__button_close {right: 4px;background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTkuMjkzIDEwTDYuMTQ2IDYuODU0YS41LjUgMCAxIDEgLjcwOC0uNzA4TDEwIDkuMjkzbDMuMTQ2LTMuMTQ3YS41LjUgMCAwIDEgLjcwOC43MDhMMTAuNzA3IDEwbDMuMTQ3IDMuMTQ2YS41LjUgMCAwIDEtLjcwOC43MDhMMTAgMTAuNzA3bC0zLjE0NiAzLjE0N2EuNS41IDAgMCAxLS43MDgtLjcwOEw5LjI5MyAxMHoiLz48L3N2Zz4=");}#tr-popup .tr-popup__button_menu {right: 24px;background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjAiIHdpZHRoPSIyMCI+PHBhdGggZD0ibTUgNnYxaDEwdi0xaC0xMHptMCAzdjFoMTB2LTFoLTEwem0wIDN2MWgxMHYtMWgtMTB6Ii8+PC9zdmc+");}#tr-popup .tr-popup__button_menu:hover,#tr-popup .tr-popup__button_close:hover {opacity: 0.5;}#tr-popup .tr-popup__button_close:active {opacity: 0.6;}#tr-popup[data-menu="true"] .tr-popup__button_menu {opacity: 1;}#tr-popup .tr-popup__button_submit {color: #000;height: 28px;padding: 0 16px;font-size: 13px;min-width: 112px;background: #fc0;box-sizing: border-box;text-align: center;line-height: 28px;border-radius: 2px;}#tr-popup .tr-popup__button_submit:hover {background: #ffb800;}#tr-popup .tr-popup__button_submit:active {background: #ffa400;}#tr-popup[data-invalid="true"] .tr-popup__button_submit {color: rgba(0, 0, 0, 0.5);cursor: default;background: rgba(0, 0, 0, 0.1);}[data-type="trSpan"][data-selected="true"] {color: #222 !important;background: #cce4f7 !important;}[data-type="trSpan"] {font-size: inherit !important;}</style></head>
+	<body>
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section"><ya-tr-span data-index="0-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Contact Form #02" data-translation="Контактная форма №02" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Контактная форма №02</ya-tr-span></h2>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-12">
+					<div class="wrapper">
+						<div class="row no-gutters">
+							<div class="col-lg-8 col-md-7 order-md-last d-flex align-items-stretch">
+								<div class="contact-wrap w-100 p-md-5 p-4">
+									<h3 class="mb-4"><ya-tr-span data-index="1-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Get in touch" data-translation="Свяжитесь с нами" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Свяжитесь с нами</ya-tr-span></h3>
+									<div id="form-message-warning" class="mb-4"></div> 
+				      		<div id="form-message-success" class="mb-4">
+				            Your message was sent, thank you!
+				      		</div>
+									<form method="POST" id="contactForm" name="contactForm" class="contactForm" novalidate="novalidate">
+										<div class="row">
+											<div class="col-md-6">
+												<div class="form-group">
+													<label class="label" for="name"><ya-tr-span data-index="2-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Full Name" data-translation="Полное имя" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Полное имя</ya-tr-span></label>
+													<input type="text" class="form-control" name="name" id="name" placeholder="Имя">
+												</div>
+											</div>
+											<div class="col-md-6"> 
+												<div class="form-group">
+													<label class="label" for="email"><ya-tr-span data-index="3-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Email Address" data-translation="Эл. адрес" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Эл. адрес</ya-tr-span></label>
+													<input type="email" class="form-control" name="email" id="email" placeholder="Электронная почта">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="subject">Субъект</label>
+													<input type="text" class="form-control" name="subject" id="subject" placeholder="Субъект">
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<label class="label" for="#">Сообщение</label>
+													<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Сообщение"></textarea>
+												</div>
+											</div>
+											<div class="col-md-12">
+												<div class="form-group">
+													<input type="submit" value="Отправить сообщение" class="btn btn-primary">
+													<div class="submitting"></div>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-5 d-flex align-items-stretch">
+								<div class="info-wrap bg-primary w-100 p-md-5 p-4">
+									<h3><ya-tr-span data-index="4-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Let&#39;s get in touch" data-translation="Давайте свяжемся" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Давайте свяжемся</ya-tr-span></h3>
+									<p class="mb-4"><ya-tr-span data-index="5-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="We&#39;re open for any suggestion or just to have a chat" data-translation="Мы открыты для любого предложения или просто для того, чтобы поболтать" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Мы открыты для любого предложения или просто для того, чтобы поболтать</ya-tr-span></p>
+				        	<div class="dbox w-100 d-flex align-items-start">
+				        		<div class="icon d-flex align-items-center justify-content-center">
+				        			<span class="fa fa-map-marker"></span>
+				        		</div>
+				        		<div class="text pl-3">
+					            <p><span><ya-tr-span data-index="6-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Address:" data-translation="Адрес:" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Адрес:</ya-tr-span></span><ya-tr-span data-index="6-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Krasnodar Territory, 352630, Belorechensk, Kirova street, building 4. " data-translation="Краснодарский край, 352630, г.Белореченск, улица Кирова, здание 4. " data-ch="0" data-type="trSpan" style="visibility: inherit !important;"> Краснодарский край, 352630, г.Белореченск, улица Кирова, здание 4.</ya-tr-span></p>
+					          </div>
+				          </div>
+				        	<div class="dbox w-100 d-flex align-items-center">
+				        		<div class="icon d-flex align-items-center justify-content-center">
+				        			<span class="fa fa-phone"></span>
+				        		</div>
+				        		<div class="text pl-3">
+					            <p><span><ya-tr-span data-index="7-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Phone:" data-translation="Телефон:" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Телефон:</ya-tr-span></span> <a href="tel://1234567920"><ya-tr-span data-index="7-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="+ 79184490482" data-translation="+79184490482" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">+79184490482</ya-tr-span></a></p>
+					          </div>
+				          </div>
+				        	<div class="dbox w-100 d-flex align-items-center">
+				        		<div class="icon d-flex align-items-center justify-content-center">
+				        			<span class="fa fa-paper-plane"></span>
+				        		</div>
+				        		<div class="text pl-3">
+					            <p><span><ya-tr-span data-index="8-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Email:" data-translation="Электронная почта:" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Электронная почта:</ya-tr-span></span> <a href="gmail:krinnsans@gmail.com"><ya-tr-span data-index="8-1" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="krinnsans@gmail.com" data-translation="krinnsans@gmail.com" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">krinnsans@gmail.com</ya-tr-span></a></p>
+					          </div>
+				          </div>
+				        	<div class="dbox w-100 d-flex align-items-center">
+				        		<div class="icon d-flex align-items-center justify-content-center">
+				        			<span class="fa fa-globe"></span>
+				        		</div>
+				        		<div class="text pl-3">
+					            <p><span><ya-tr-span data-index="9-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Website" data-translation="Веб-сайт" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">Веб-сайт</ya-tr-span></span> <a href="https://preview.colorlib.com/theme/bootstrap/contact-form-02/#"><ya-tr-span data-index="9-1" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="yoursite.com" data-translation="yoursite.com" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">yoursite.com</ya-tr-span></a></p>
+					          </div>
+				          </div>
+			          </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="./Contact Form 02_files/jquery.min.js"></script>
+  <script src="./Contact Form 02_files/popper.js"></script>
+  <script src="./Contact Form 02_files/bootstrap.min.js"></script>
+  <script src="./Contact Form 02_files/jquery.validate.min.js"></script>
+  <script src="./Contact Form 02_files/main.js"></script>
+
+	<script defer="" src="./Contact Form 02_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;925c56e7ea229cc4&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.1.0&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;}" crossorigin="anonymous"></script>
+
+
+
+<div id="tr-popup" class="tr-popup" translate="no" data-hidden="true" data-invalid="true" data-disabled="false" lang="ru"><div class="tr-popup__block"><span class="tr-popup__title_original">Оригинальный текст:</span> <span class="tr-popup__value"></span></div><div class="tr-popup__block tr-popup__block_a"><span class="tr-popup__link tr-popup__link_suggest" data-action="expand">Предложить перевод</span><a href="https://translate.yandex.ru/" class="tr-popup__link tr-popup__link_service" target="_blank" data-action="navigate"><span class="tr-popup__logo tr-popup__logo_company"></span><span class="tr-popup__logo tr-popup__logo_service"></span></a></div><div class="tr-popup__block tr-popup__block_b"><textarea class="tr-popup__input" spellcheck="false" autocapitalize="off" autocorrect="off" autocomplete="off" maxlength="1000"></textarea><div class="tr-popup__block tr-popup__block_submit"><span role="button" class="tr-popup__button tr-popup__button_submit" data-action="send">Отправить</span></div><div class="tr-popup__overlay tr-popup__overlay_submitted">Спасибо, перевод отправлен</div></div><span role="button" class="tr-popup__button tr-popup__button_close" data-action="clickClose"></span><span role="button" class="tr-popup__button tr-popup__button_menu" data-action="clickMenu"><span class="tr-popup__menu" data-action="disablePopup">Отключить подсказку с оригинальным текстом</span></span><span class="tr-popup__arrow"></span></div></body></html>
